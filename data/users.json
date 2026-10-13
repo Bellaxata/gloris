@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "cb02206e4536",
+    "username": "bellaxcham",
+    "passwordHash": "$2a$10$XPp3cSPsUgKkPLBhoJS4j.4rELA/J.sQnah//HFbNhYgeLkdkoVE.",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "5126860596",
+    "expiredAt": null,
+    "createdAt": "2026-10-13T20:39:55.347Z",
+    "createdBy": "5126860596",
+    "createdByName": "乂ᥫ᭡፝֟፝ Xatanical",
+    "source": "telegram-owner"
+  }
+]
